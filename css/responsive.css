@@ -130,10 +130,10 @@
         border-radius: 6px;
         width: 90px;
         height: 30px;
-        color: #fff;
+        color: #000;
         line-height: 28px;
         margin: 20px 0;
-        border: 2px solid #fff;
+        border: 2px solid #000;
         font-weight: 400;
     }
     #studioMenu {

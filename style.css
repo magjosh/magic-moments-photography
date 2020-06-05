@@ -9,11 +9,14 @@
 
     /* ============ PLACE YOUR CUSTOM CSS HERE ============ */
 
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital@1&display=swap');
+
  .single-instagram-feeds img{width: 150px; height: 150px}
 
 h1 {
 	color: white;
-	font-family: 'Allura';font-size: 50px;
+    font-family: 'Playfair Display', serif;
+    /* font-family: 'Allura'; */
 }
 
 a.Instagram {
