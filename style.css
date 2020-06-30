@@ -35,6 +35,7 @@ a.Instagram {
 
 .button {
     color: black;
+    position: fixed;
 }
 
 .gallery_area {
